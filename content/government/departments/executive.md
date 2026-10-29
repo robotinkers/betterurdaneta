@@ -1,6 +1,6 @@
 # Your Mayor
 
-Find out about your Mayor and Vice Mayor, including upcoming events, the Mayor's Community Assistance Program, mayoral history, and information about other historic roles in the local government unit.
+Find out who leads the **{GOVERNMENT_NAME}** government, what the Mayor and Vice Mayor do, and how to contact the Office of the Mayor.
 
 ---
 
@@ -8,95 +8,47 @@ Find out about your Mayor and Vice Mayor, including upcoming events, the Mayor's
 
 The **Mayor** is the chief executive official of the **Local Government Unit of {GOVERNMENT_NAME}**. The Mayor is elected by residents during the **Philippine National and Local Elections**, which are held every three years.
 
-The Mayor serves as the head of the local government and is responsible for implementing programs, policies, and development initiatives approved by the **Sangguniang Panlungsod / Sangguniang Bayan (City or Municipal Council)**.
-
-The Mayor’s duties include representing the LGU during official functions, leading local development programs, overseeing city or municipal services, and ensuring that public services are effectively delivered to residents.
-
-The **current Mayor is {MAYOR}.**
-
-**Mayor {MAYOR}** was elected as **Mayor of {GOVERNMENT_NAME}** during the **{YEAR_ELECTED} National and Local Elections**.
+The Mayor leads the local government and is responsible for carrying out the programs, policies, and development initiatives approved by the **Sangguniang Panlungsod (City Council)**. The Mayor's duties include representing the city at official functions, overseeing city services, and making sure public services reach residents.
 
 ---
 
-## Mayor of {GOVERNMENT_NAME}
+## Current acting officials
 
-**Image Caption**
+The elected Mayor and Vice Mayor of {GOVERNMENT_NAME} have been the subject of a suspension and a later dismissal order (see the notice below). City leadership is currently held by acting officials, who were installed from among the members of the Sangguniang Panlungsod:
 
-Mayor of **{GOVERNMENT_NAME}**, **{MAYOR}**
+- **Acting Mayor:** Hon. {MAYOR}
+- **Acting Vice Mayor:** Hon. {VICE_MAYOR}
 
----
-
-### Biography of the Mayor
-
-Mayor **{MAYOR}** has been serving the people of **{GOVERNMENT_NAME}** since **{YEAR_ELECTED}**.
-
-Mayor **{MAYOR}** is known for championing initiatives related to:
-
-- Local economic development
-- Public health and social services
-- Infrastructure and urban development
-- Community empowerment and participation
-
-Outside of official duties, Mayor **{MAYOR}** works closely with barangay leaders, civic organizations, and private sector partners to support programs that benefit the community.
+Both were installed in March 2025 after the Office of the President suspended the elected Mayor and Vice Mayor.
 
 ---
 
-### Mayor's Community Assistance Program
+## Leadership notice: suspension and dismissal order
 
-During the current term, Mayor **{MAYOR}** supports several initiatives aimed at improving the welfare of residents under the theme **"[PROGRAM THEME]"**.
+This section is a summary of published news reports. It is not a legal opinion, and the situation may have changed since it was written. Please read the full reports for details.
 
-Programs supported include:
+- **January 2025:** The Office of the President ordered a 12-month suspension of Mayor Julio F. Parayno III and Vice Mayor Jimmy D. Parayno over grave misconduct and grave abuse of authority. The order was served on January 7, 2025.
+- **March 2025:** The Department of the Interior and Local Government (DILG) enforced the suspension. Councilors Rio Virgilio R. Esteves and Blesildo F. Sumera assumed the acting posts after other councilors declined them.
+- **October 16, 2026:** The Office of the Ombudsman ordered the dismissal from service of the Mayor, the Vice Mayor, and six city councilors, according to the Daily Tribune. The report says the Mayor and Vice Mayor were found liable for grave misconduct for continuing to perform official duties despite the suspension, and the six councilors for gross neglect of duty for refusing to assume acting positions.
 
-- **[PROGRAM NAME 1]** – Supporting education and youth development
-- **[PROGRAM NAME 2]** – Providing livelihood assistance to families
-- **[PROGRAM NAME 3]** – Strengthening disaster preparedness and community resilience
+Read the news reports:
 
-You can read more about these initiatives on the **Mayor's Community Programs page**.
-
----
-
-# Vice Mayor
-
----
-
-## Biography of the Vice Mayor
-
-**{VICE_MAYOR}** currently serves as the **Vice Mayor of {GOVERNMENT_NAME}**.
-
-The Vice Mayor presides over the **Sangguniang Panlungsod / Sangguniang Bayan**, ensuring legislative sessions run properly and that ordinances and resolutions support the development goals of the local government.
-
-Vice Mayor **{VICE_MAYOR}** was elected during the **{YEAR_ELECTED} National and Local Elections**.
-
-Vice Mayor **{VICE_MAYOR}** supports initiatives focused on:
-
-- community welfare
-- legislative development
-- economic and social progress
+- [Ombudsman dismisses Urdaneta mayor, vice mayor, 6 councilors (Daily Tribune, October 16, 2026)](https://tribune.net.ph/2026/10/16/ombudsman-dismisses-urdaneta-mayor-vice-mayor-6-councilors)
+- [2 councilors assume top Urdaneta posts (Daily Tribune, April 1, 2025)](https://tribune.net.ph/2025/04/01/2-councilors-assume-top-urdaneta-posts)
 
 ---
 
 # About the Office of the Vice Mayor
 
-The **Vice Mayor** performs legislative functions and presides over meetings of the **City or Municipal Council**.
+The **Vice Mayor** presides over the **Sangguniang Panlungsod** and helps make sure its sessions run properly and that ordinances and resolutions support the city's development goals.
 
-When the Mayor is unable to perform official duties due to travel, illness, or other official commitments, the **Vice Mayor assumes responsibilities as Acting Mayor**, in accordance with Philippine local government laws.
-
-The Vice Mayor may also represent the city or municipality in official functions, civic ceremonies, and community events when designated by the Mayor.
+When the Mayor is unable to perform official duties, the Vice Mayor takes over as Acting Mayor, in accordance with Philippine local government laws.
 
 ---
 
-# Invite the Mayor to Your Event
+# Invite the Mayor to your event
 
-Residents, organizations, and institutions may invite the Mayor to attend official community activities such as:
-
-- community celebrations
-- school programs
-- civic ceremonies
-- government events
-
-To request the Mayor’s attendance, please submit a formal invitation to the **Office of the Mayor**.
-
-Required information:
+Residents, organizations, and schools may invite the Mayor to official community activities. To request the Mayor's attendance, send a formal invitation to the **Office of the Mayor** with:
 
 - Name of organization
 - Event title
@@ -106,50 +58,10 @@ Required information:
 
 ---
 
-# Mayor's Events and News
-
-Stay updated with the latest activities of the Mayor, including:
-
-- community visits
-- project launches
-- public consultations
-- official ceremonies
-
-Updates will be posted regularly on the **official website and social media channels of {GOVERNMENT_NAME}**.
-
----
-
-# Mayoral History and Key Facts
-
-The Office of the Mayor plays a vital role in guiding the development of **{GOVERNMENT_NAME}**.
-
-Key responsibilities include:
-
-- implementing local development plans
-- overseeing local government operations
-- managing emergency and disaster response
-- representing the LGU in regional and national engagements
-
-A historical list of previous mayors and key milestones of the city or municipality can be found on the **Mayoral History page**.
-
----
-
-# Other Historic Roles in the LGU
-
-The local government also recognizes other important civic and ceremonial roles that have contributed to the history of **{GOVERNMENT_NAME}**, including:
-
-- former municipal presidents
-- distinguished public servants
-- honorary community leaders
-
-These roles reflect the legacy of leadership and public service within the community.
-
----
-
 # Contact the Mayor's Office
 
 **Office of the Mayor**
-City/Municipal Hall of **{GOVERNMENT_NAME}**
+City Hall of **{GOVERNMENT_NAME}**
 
 **Address:**
 Urdaneta City Hall, Amadeo R. Perez Jr. Avenue
