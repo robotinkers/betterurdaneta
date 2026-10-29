@@ -1,98 +1,63 @@
-# Go to the Local Hospital for Treatment or Confinement — Lapu-Lapu City
+# Go to a hospital in Urdaneta for treatment or confinement
 
-This guide covers **where to go**, **what to bring**, and **how admission works** at local hospitals in Lapu-Lapu City, including the city-run facility and nearby private hospitals.
-
----
-
-## A) Government Hospital (City-Run)
-
-### Sta. Rosa Community Hospital (Lapu-Lapu City)
-
-**Services & Hours**
-
-- **Emergency (Medical & Medico-legal):** 24/7
-- **Ward (In-patient confinement):** 24/7
-- **Out-Patient:** Mon–Fri, 8:00 AM–5:00 PM (except holidays)
-
-**Emergency (Medical cases) – Quick Steps**
-| Step | What you do | Hospital does | Typical time |
-|---|---|---|---|
-| 1 | Seek care at ER | Triage, vitals, initial MD orders | ~10–25 min |
-| 2 | Sign consent (treatment/admission if needed) | Prepare meds/tests; set for transfer to ward if admitted | ~20–25 min |
-| 3 | Transfer to ward (if for confinement) | ER endorses to Ward Nurse on duty | ~10 min |
-
-**Requirements (bring if available):** Registration data sheet (onsite), **PhilHealth ID/MDR (optional)**, doctor’s referral/admitting orders (if coming from clinic).
-
-**Ward (In-patient) – What to expect**
-
-- Follow doctor’s orders; nurses administer meds/tests; dietary issued as ordered.
-- For discharge: instructions & schedule for follow-ups are given; proceed to Billing for clearance; release at Ward/Nurse station.
-- **Fees:** Posted at Billing.
-- **Note:** If not enrolled in PhilHealth, staff will guide processing if a relative can provide documents.
+Urdaneta City has a provincial government hospital and a private hospital. Both are listed below with the details that could be verified. **Call ahead** for admission rules, fees and room availability.
 
 ---
 
-## B) Private Hospitals Nearby
+## Urdaneta District Hospital (government)
 
-| Hospital                                     | Where                 | Beds/Notes                            | Admissions basics                                                                                                                     |
-| -------------------------------------------- | --------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mactan Doctors’ Hospital (CebuDoc Group)** | Basak, Lapu-Lapu City | **151-bed tertiary** private hospital | Bring valid ID; company/HMO authorization if applicable; PhilHealth forms; fill out admission forms and submit to Admissions/Billing. |
-| **ARC Hospitals**                            | Lapu-Lapu City        | **~100-bed** private hospital         | Standard private-hospital admission flow; coordinate with Admissions/HMO/PhilHealth desk.                                             |
+The Urdaneta District Hospital is run by the Provincial Government of Pangasinan and is in Barangay Dilan Paurido.
 
-> Private hospitals typically require **initial deposits** (varies by case/room) unless fully covered by HMO/PhilHealth arrangements. Confirm at the **Billing/Admissions** desk.
-
----
-
-## C) What to Bring (All Hospitals)
-
-- **Valid ID** (with photo & signature)
-- **PhilHealth** ID and **MDR** (Member Data Record); if a dependent, bring proof of dependency
-- **Doctor’s referral/admitting order** (if elective admission)
-- **HMO/Company**: LOA/guarantee letter, membership/ID cards (if applicable)
-- **Personal necessities** (for confinement)
+| Information        | Details                                                    |
+| ------------------ | ---------------------------------------------------------- |
+| **Emergency room** | (075) 632-6248                                             |
+| **Location**       | Dilan Paurido, Urdaneta City (reported in public listings) |
 
 ---
 
-## D) Costs & PhilHealth Coverage
+## Urdaneta Sacred Heart Hospital (private)
 
-- **City hospital:** Fees are posted at **Billing**; **PhilHealth** benefits may apply at admission/discharge processing.
-- **No Balance Billing (NBB):** For **indigent/sponsored**, **senior citizens**, and certain categories in **government hospitals**, no other fees beyond PhilHealth package should be charged during confinement (subject to policy and facility capacity).
+| Information        | Details                                                           |
+| ------------------ | ----------------------------------------------------------------- |
+| **Address**        | 15 MacArthur Highway, Urdaneta City, Pangasinan 2428              |
+| **Telephone**      | (075) 203 1000                                                    |
+| **Beds**           | 128                                                               |
+| **Emergency room** | Open 24 hours, Monday to Sunday                                   |
+| **Payment**        | The hospital's website mentions HMO cards and PhilHealth benefits |
 
----
+Departments and services listed on its website:
 
-## E) How to Avail — At a Glance
-
-### Emergency (any hospital)
-
-1. **Go straight to ER** (24/7).
-2. **Triage & initial orders** → stabilization/tests.
-3. **If admitted:** sign consent → transfer to ward → submit IDs/PhilHealth/HMO at Admissions/Billing.
-
-### Elective Admission (planned confinement/procedure)
-
-1. Obtain **doctor’s admitting order** & **referral**.
-2. Prepare **IDs, PhilHealth, HMO/LOA** (if any).
-3. Proceed to **Admissions** for room assignment, forms, and initial billing arrangements.
+- Emergency care, intensive care unit and neonatal ICU
+- Internal medicine, pediatrics, and obstetrics and gynecology
+- Laboratory, radiology and operating room
+- Heart and brain station, pulmonary, ENT and eye center
+- Hemodialysis, chemotherapy, wound care and vascular unit
+- Dental services, physical therapy and rehabilitation, and a nutrition and wellness clinic
 
 ---
 
-## F) Useful Contacts
+## What to bring
 
-- **Lapu-Lapu City Hospital / District Hospital (Gov’t)**
-  - A. Tumulak St., Gun-ob, Lapu-Lapu City
-  - **Tel:** (032) 340-0249 / 340-0248
-  - **Email:** lapulapucityhospital@yahoo.com
-
-- **Mactan Doctors’ Hospital (Private, CebuDoc Group)**
-  - Basak, Lapu-Lapu City
-  - **Trunkline:** +63 (32) 239-7002 to 7016
-
-- **ARC Hospitals (Private)**
-  - Lapu-Lapu City (100-bed facility)
+- A valid ID
+- Your PhilHealth number or member data record, if you have one
+- Your HMO card, if you have one
+- Previous medical records, laboratory results and a list of your medicines
 
 ---
 
-### Notes
+## In an emergency
 
-- Bring your **PhilHealth** documents even for emergencies; if unavailable, the hospital can guide you on follow-up submission.
-- Schedules and processes can change; confirm by calling the hospital **Admissions/Billing** desk before a planned confinement.
+Go to the nearest emergency room, or call:
+
+- **Ambulance and rescue:** 0917 818 5374
+- **Philippine National Police:** 0916 226 3641 or 0998 589 5135
+- **Bureau of Fire Protection:** 0917 184 4611
+
+---
+
+## Sources
+
+- [Urdaneta Sacred Heart Hospital](https://urdanetasacredhearthospital.com/)
+- [Urdaneta District Hospital contact page (Province of Pangasinan)](https://www.pangasinan.gov.ph/department/urdaneta-district-hospital/contact-us/)
+- [Urdaneta District Hospital (HealthSpace PH)](https://healthspace.ph/facility/urdaneta-district-hospital-FCD00171)
+- [Urdaneta City Health Office queuing site (emergency numbers)](https://chourdaneta-queuing.site/)
