@@ -46,10 +46,10 @@ export const mapPins: MapPin[] = [
     id: 'urdaneta-district-hospital',
     name: 'Urdaneta District Hospital',
     kind: 'hospital',
-    // PLACEHOLDER position: not the real location.
-    lat: CITY_CENTER.lat + 0.006,
-    lng: CITY_CENTER.lng + 0.004,
-    verified: false,
+    // Coordinates supplied by the site maintainer.
+    lat: 15.9737471,
+    lng: 120.5782076,
+    verified: true,
     details: [
       'Barangay Dilan Paurido, Urdaneta City (reported in public listings)',
       'Emergency room: (075) 632-6248',
