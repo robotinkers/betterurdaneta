@@ -163,6 +163,13 @@ export default function Document({
               {nestedPages.map((page, i) => (
                 <Card hoverable key={page.slug ?? i} className="h-full">
                   <CardContent>
+                    {page.image && (
+                      <img
+                        src={page.image}
+                        alt={page.name}
+                        className="mb-3 h-44 w-36 rounded object-cover object-top"
+                      />
+                    )}
                     <h4 className="text-lg font-medium text-gray-900">
                       {page.name}
                     </h4>
