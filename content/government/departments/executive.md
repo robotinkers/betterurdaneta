@@ -1,10 +1,4 @@
-# Mayor and Vice Mayor of {GOVERNMENT_NAME}
-
-The current Mayor and Vice Mayor of {GOVERNMENT_NAME}, a notice about recent changes in city leadership, and how to contact the Office of the Mayor.
-
----
-
-## Current officials
+# Current officials
 
 - **Mayor:** Hon. {MAYOR}
 - **Vice Mayor:** Hon. {VICE_MAYOR}
