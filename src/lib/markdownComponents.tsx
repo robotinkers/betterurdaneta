@@ -268,6 +268,13 @@ export function createMarkdownComponents(theme: TypographyTheme) {
         {children}
       </em>
     ),
+    img: ({ alt, src }: { alt?: string; src?: string }) => (
+      <img
+        src={src}
+        alt={alt}
+        className="mr-4 mb-4 inline-block h-56 w-auto rounded object-cover object-top"
+      />
+    ),
     hr: ({ ...props }: HTMLAttributes<HTMLHRElement>) => (
       <hr className={theme.components.hr} {...props} />
     ),

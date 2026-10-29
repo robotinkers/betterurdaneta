@@ -1,5 +1,7 @@
 # Current officials
 
+![Mayor {MAYOR}](/officials/blesildo-f-sumera.jpg) ![Vice Mayor {VICE_MAYOR}](/officials/rio-virgilio-r-esteves.jpg)
+
 - **Mayor:** Hon. {MAYOR}
 - **Vice Mayor:** Hon. {VICE_MAYOR}
 
