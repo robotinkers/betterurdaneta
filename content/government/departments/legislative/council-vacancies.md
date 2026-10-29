@@ -19,16 +19,37 @@ On **October 16, 2026**, news outlets reported that the Office of the Ombudsman,
 
 The reports say they were found liable for gross neglect of duty for refusing to assume the acting posts assigned to them by the Department of the Interior and Local Government (DILG). The penalties reported include perpetual disqualification from holding public office.
 
-Councilors Blesildo F. Sumera and Rio Virgilio R. Esteves, who earlier took the acting posts, now lead the city as Mayor and Vice Mayor. Because of the dismissals, the council has **several vacant seats**.
+Councilors Blesildo F. Sumera and Rio Virgilio R. Esteves, who earlier took the acting posts, now lead the city as Mayor and Vice Mayor. As a result, **7 of the 10 elected council seats are vacant**.
 
-The DILG has said it is studying how to fill them under the Local Government Code and the city charter. Reports say the remaining councilors may nominate qualified individuals for the vacancies, subject to legal procedures. The exact list of sitting councilors has not been published in the reports we reviewed, so this page does not list a full roster yet.
-
-This page will be updated once the council's membership is confirmed from an official source.
+The Department of the Interior and Local Government (DILG) has said it is studying how to fill the vacancies under the Local Government Code and the city charter. Reports say the remaining councilors may nominate qualified individuals, subject to legal procedures.
 
 ---
 
-## News reports
+## Members of the council (as of October 16, 2026)
 
+| Position                                    | Name                                  |
+| ------------------------------------------- | ------------------------------------- |
+| Presiding Officer (Vice Mayor)              | Rio Virgilio R. Esteves               |
+| Councilor                                   | Maria Teresa Socorro E. Perez-Naguiat |
+| Councilor                                   | Onofre C. Gorospe                     |
+| Councilor                                   | Maura Jennifer C. Gandia              |
+| Councilor                                   | Vacant                                |
+| Councilor                                   | Vacant                                |
+| Councilor                                   | Vacant                                |
+| Councilor                                   | Vacant                                |
+| Councilor                                   | Vacant                                |
+| Councilor                                   | Vacant                                |
+| Councilor                                   | Vacant                                |
+| Ex officio (Liga ng mga Barangay President) | Jose Roy A. Parayno                   |
+| Ex officio (SK Federation President)        | Renzee Carl C. Parayno                |
+
+This list follows the Wikipedia article on Urdaneta, last checked in October 2026. The city's own website has not yet updated its officials page, so this page will be revised when an official list is published.
+
+---
+
+## Sources and news reports
+
+- [Urdaneta, Pangasinan (Wikipedia)](https://en.wikipedia.org/wiki/Urdaneta,_Pangasinan)
 - [Urdaneta mayor, vice mayor, councilors dismissed by Ombudsman (Philippine Daily Inquirer, October 16, 2026)](https://newsinfo.inquirer.net/2324989/urdaneta-mayor-vice-mayor-councilors-dismissed-by-ombudsman)
 - [Ombudsman dismisses Urdaneta mayor, vice mayor, 6 councilors (Daily Tribune, October 16, 2026)](https://tribune.net.ph/2026/10/16/ombudsman-dismisses-urdaneta-mayor-vice-mayor-6-councilors)
 - [New Urdaneta leadership appeals for cooperation (The Manila Times, October 21, 2026)](https://www.manilatimes.net/2026/10/21/regions/new-urdaneta-leadership-appeals-for-cooperation/2450274)
