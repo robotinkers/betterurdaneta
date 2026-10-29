@@ -60,3 +60,7 @@ terraform.rc
 # Lock file (optional - remove this line if you want to commit the lock file)
 .terraform.lock.hcl
 
+
+# Large source photos kept locally only; the logo is tracked
+references/*
+!references/Urdaneta_logo.png
