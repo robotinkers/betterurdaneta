@@ -1,14 +1,24 @@
-# Council composition and vacancies
+# Members of the council (as of October 16, 2026)
 
-The **Sangguniang Panlungsod** is the legislative body of **{GOVERNMENT_NAME}**. It passes the city's ordinances and resolutions and approves its budget. The Vice Mayor presides over the council.
+| Position                                    | Name                                         |
+| ------------------------------------------- | -------------------------------------------- |
+| Presiding Officer (Vice Mayor)              | Rio Virgilio R. Esteves                      |
+| Councilor                                   | Maria Teresa Socorro E. Perez-Naguiat        |
+| Councilor                                   | Onofre C. Gorospe                            |
+| Councilor                                   | Maura Jennifer C. Gandia                     |
+| Councilor                                   | Vacant (7 of the 10 elected seats are empty) |
+| Ex officio (Liga ng mga Barangay President) | Jose Roy A. Parayno                          |
+| Ex officio (SK Federation President)        | Renzee Carl C. Parayno                       |
 
-According to the results of the May 2025 local elections, voters elected **10 city councilors** for the 2025–2028 term, who assumed office on June 30, 2025.
+This list follows the Wikipedia article on Urdaneta, last checked in October 2026. The city's own website has not yet updated its officials page.
 
 ---
 
-## Current situation
+## Why seats are vacant
 
-On **October 16, 2026**, news outlets reported that the Office of the Ombudsman, in a decision dated **April 15, 2026**, ordered the dismissal from service of six members of the Sangguniang Panlungsod, along with the Mayor and Vice Mayor. City officials said they received the decision on October 15, 2026. The six councilors named in the reports are:
+News outlets reported on October 16, 2026 that the Office of the Ombudsman, in a decision dated April 15, 2026, ordered the dismissal of six members of the Sangguniang Panlungsod, along with the Mayor and Vice Mayor. City officials said they received the decision on October 15, 2026.
+
+The six councilors named in the reports are:
 
 - Franco Paolo San Juan Del Prado
 - Warren Dela Cruz Andrada
@@ -17,49 +27,17 @@ On **October 16, 2026**, news outlets reported that the Office of the Ombudsman,
 - Jhan Hero M. Sumera
 - Alfonso Miguel Manuel Del Prado
 
-The reports say they were found liable for gross neglect of duty for refusing to assume the acting posts assigned to them by the Department of the Interior and Local Government (DILG). The penalties reported include perpetual disqualification from holding public office.
+They were found liable for gross neglect of duty for refusing to assume the acting posts assigned to them by the Department of the Interior and Local Government (DILG). The penalties reported include perpetual disqualification from holding public office.
 
-Councilors Blesildo F. Sumera and Rio Virgilio R. Esteves, who earlier took the acting posts, now lead the city as Mayor and Vice Mayor. As a result, **7 of the 10 elected council seats are vacant**.
+Councilors Blesildo F. Sumera and Rio Virgilio R. Esteves, who earlier took the acting posts, now serve as Mayor and Vice Mayor, which also leaves their council seats empty.
 
-The Department of the Interior and Local Government (DILG) has said it is studying how to fill the vacancies under the Local Government Code and the city charter. Reports say the remaining councilors may nominate qualified individuals, subject to legal procedures.
-
----
-
-## Members of the council (as of October 16, 2026)
-
-| Position                                    | Name                                  |
-| ------------------------------------------- | ------------------------------------- |
-| Presiding Officer (Vice Mayor)              | Rio Virgilio R. Esteves               |
-| Councilor                                   | Maria Teresa Socorro E. Perez-Naguiat |
-| Councilor                                   | Onofre C. Gorospe                     |
-| Councilor                                   | Maura Jennifer C. Gandia              |
-| Councilor                                   | Vacant                                |
-| Councilor                                   | Vacant                                |
-| Councilor                                   | Vacant                                |
-| Councilor                                   | Vacant                                |
-| Councilor                                   | Vacant                                |
-| Councilor                                   | Vacant                                |
-| Councilor                                   | Vacant                                |
-| Ex officio (Liga ng mga Barangay President) | Jose Roy A. Parayno                   |
-| Ex officio (SK Federation President)        | Renzee Carl C. Parayno                |
-
-This list follows the Wikipedia article on Urdaneta, last checked in October 2026. The city's own website has not yet updated its officials page, so this page will be revised when an official list is published.
+The DILG has said it is studying how to fill the vacancies under the Local Government Code and the city charter. Reports say the remaining councilors may nominate qualified individuals, subject to legal procedures.
 
 ---
 
-## Sources and news reports
+## Sources
 
 - [Urdaneta, Pangasinan (Wikipedia)](https://en.wikipedia.org/wiki/Urdaneta,_Pangasinan)
 - [Urdaneta mayor, vice mayor, councilors dismissed by Ombudsman (Philippine Daily Inquirer, October 16, 2026)](https://newsinfo.inquirer.net/2324989/urdaneta-mayor-vice-mayor-councilors-dismissed-by-ombudsman)
 - [Ombudsman dismisses Urdaneta mayor, vice mayor, 6 councilors (Daily Tribune, October 16, 2026)](https://tribune.net.ph/2026/10/16/ombudsman-dismisses-urdaneta-mayor-vice-mayor-6-councilors)
 - [New Urdaneta leadership appeals for cooperation (The Manila Times, October 21, 2026)](https://www.manilatimes.net/2026/10/21/regions/new-urdaneta-leadership-appeals-for-cooperation/2450274)
-
----
-
-## Contact the Sangguniang Panlungsod
-
-**Urdaneta City Hall**, Amadeo R. Perez Jr. Avenue
-Urdaneta City, Pangasinan
-
-**Telephone:** (0917) 127 4347
-**Website:** https://urdaneta-city.gov.ph
