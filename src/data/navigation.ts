@@ -32,12 +32,16 @@ export const footerNavigation = {
     {
       title: 'About',
       links: [
-        { label: 'About the Portal', href: '/about' },
-        // { label: 'Privacy Policy', href: '/privacy' },
-        // { label: 'Terms of Use', href: '/terms' },
-        { label: 'Accessibility', href: '/accessibility' },
-        { label: 'Contact Us', href: '/about' },
-        { label: 'Community Discord', href: '/discord' },
+        { label: 'About BetterLGU', href: 'https://lgu.bettergov.ph' },
+        {
+          label: 'Contribute on GitHub',
+          href: 'https://github.com/robotinkers/betterurdaneta',
+        },
+        { label: 'City Hall Website', href: 'https://urdaneta-city.gov.ph' },
+        {
+          label: "Contact the Mayor's Office",
+          href: '/government/departments/executive',
+        },
       ],
     },
     {
@@ -50,8 +54,14 @@ export const footerNavigation = {
             label: category.category,
             href: `/services/${category.slug}`,
           })),
-        { label: 'Hotlines', href: '/philippines/hotlines' },
-        { label: 'Holidays', href: '/philippines/holidays' },
+        {
+          label: 'Hotlines',
+          href: 'https://bettergov.ph/philippines/hotlines',
+        },
+        {
+          label: 'Holidays',
+          href: 'https://bettergov.ph/philippines/holidays',
+        },
       ],
     },
     {
@@ -70,10 +80,5 @@ export const footerNavigation = {
       ],
     },
   ],
-  socialLinks: [
-    { label: 'Facebook', href: 'https://facebook.com/govph' },
-    { label: 'Twitter', href: 'https://twitter.com/govph' },
-    { label: 'Instagram', href: 'https://instagram.com/govph' },
-    { label: 'YouTube', href: 'https://youtube.com/govph' },
-  ],
+  socialLinks: [] as { label: string; href: string }[],
 };
