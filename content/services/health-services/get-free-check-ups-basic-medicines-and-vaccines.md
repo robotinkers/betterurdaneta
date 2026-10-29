@@ -1,41 +1,44 @@
-# Lapu-Lapu City Government: Free Health Services
+# Get check-ups, basic medicines and vaccines at the City Health Office
 
-The Lapu-Lapu City Government offers free **check-ups, medicines, and vaccines** through the City Health Office (CHO), barangay health centers, and partner programs.
+The **Urdaneta City Health Office (CHO)** is the city government's main health office. It runs the city's public health services, including patient consultations, immunization and disease programs.
 
----
-
-## 1. Free Medical Check-ups
-
-| Service              | Where                        | Schedule                                     | Requirements                                              |
-| -------------------- | ---------------------------- | -------------------------------------------- | --------------------------------------------------------- |
-| General consultation | City/Barangay Health Centers | Mon–Fri, 8 AM–5 PM (varies by health center) | Individual Treatment Record (ITR) — issued on first visit |
+This page lists the contact details that could be verified. Services, schedules and any fees change, so **call the CHO before you go** and ask what is available and what to bring.
 
 ---
 
-## 2. Free Basic Medicines
+## Where to go
 
-| Service                                          | Where                                    | Schedule           | Requirements                                                                                     |
-| ------------------------------------------------ | ---------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-| Free basic medicines                             | City Health Office (CHO) pharmacy        | Mon–Fri, 8 AM–5 PM | Doctor’s prescription and/or referral from hospital/clinic                                       |
-| Medicines for indigent seniors (MAIFIPP program) | Partner pharmacies (Basak, Carajay, Ibo) | Pharmacy hours     | Must be an indigent senior citizen, bona fide resident; coverage caps (e.g., ₱3,000 out-patient) |
-
----
-
-## 3. Free Vaccines & Immunization
-
-| Beneficiary       | Vaccine/Service                                          | Where                        | Schedule                        | Requirements                                             |
-| ----------------- | -------------------------------------------------------- | ---------------------------- | ------------------------------- | -------------------------------------------------------- |
-| Children          | BCG, Pentavalent, OPV/IPV, MMR, Hepatitis B, PCV13 (EPI) | Barangay Health Centers      | Typically Wednesdays, 8 AM–4 PM | ECCD card (first-timers can get one onsite)              |
-| Pregnant women    | Tetanus Toxoid vaccine + supplements                     | Barangay Health Centers      | During prenatal services        | Proof of pregnancy, ECCD/record                          |
-| Animal bite cases | Anti-rabies vaccine (first dose free)                    | Animal Bite Treatment Center | Clinic hours                    | Proof of Lapu-Lapu residency (e.g., voter’s certificate) |
+| Information  | Details                                                                              |
+| ------------ | ------------------------------------------------------------------------------------ |
+| **Office**   | Urdaneta City Health Office                                                          |
+| **Address**  | Alexander Street, Poblacion, Urdaneta City, Pangasinan (reported in public listings) |
+| **Hotline**  | 0933 869 4961                                                                        |
+| **Other**    | 0919 002 7019, 0943 700 9419                                                         |
+| **Days**     | Monday to Friday, 8:00 AM to 5:00 PM (reported in public listings)                   |
+| **Queueing** | The CHO runs an online patient queue system at chourdaneta-queuing.site              |
 
 ---
 
-## How to Avail
+## What to bring
 
-1. **Check-ups** → Go to your Barangay Health Center or City Health Office; first-timers will be issued an ITR.
-2. **Medicines** → Bring a doctor’s prescription/referral; submit at CHO pharmacy window.
-3. **Child immunization** → Visit your barangay health center on immunization day with ECCD card.
-4. **Pregnancy services** → Attend prenatal visits at the barangay health center for free vaccine and supplements.
-5. **Anti-rabies** → Report to the Animal Bite Treatment Center; bring proof of residency.
-6. **Senior citizen medicines** → Visit participating partner pharmacies; follow MAIFIPP guidelines.
+- A valid ID
+- Your PhilHealth number, if you have one
+- Any previous medical records, prescriptions or immunization cards
+
+---
+
+## Emergencies
+
+For emergencies, do not wait for the CHO. Call the city's emergency numbers:
+
+- **Ambulance and rescue:** 0917 818 5374
+- **Bureau of Fire Protection:** 0917 184 4611
+- **Philippine National Police:** 0916 226 3641 or 0998 589 5135
+
+---
+
+## Sources
+
+- [Urdaneta City Health Office queuing site (City Government of Urdaneta)](https://chourdaneta-queuing.site/)
+- [Urdaneta City Government](https://urdaneta-city.gov.ph)
+- [Urdaneta City Health Office I (Clinic Finder PH)](https://www.clinicfinderph.com/clinic/urdaneta-city-health-office-i)
