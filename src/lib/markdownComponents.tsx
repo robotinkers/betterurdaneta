@@ -71,7 +71,10 @@ export function createMarkdownComponents(theme: TypographyTheme) {
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLParagraphElement>) => (
-      <p className={theme.components.p} {...props}>
+      <p
+        className={`${theme.components.p} has-[.md-photo]:flex has-[.md-photo]:flex-wrap has-[.md-photo]:justify-center has-[.md-photo]:gap-x-10 has-[.md-photo]:gap-y-6 has-[.md-photo]:py-4`}
+        {...props}
+      >
         {children}
       </p>
     ),
@@ -272,7 +275,7 @@ export function createMarkdownComponents(theme: TypographyTheme) {
       // Alt text written as "Role | Name" becomes a caption under the photo
       const [role, name] = (alt ?? '').split('|').map(part => part.trim());
       return (
-        <span className="mr-4 mb-4 inline-flex flex-col items-center align-top">
+        <span className="md-photo inline-flex flex-col items-center">
           <img
             src={src}
             alt={name ? `${role} ${name}` : alt}
