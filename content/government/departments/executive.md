@@ -1,9 +1,6 @@
 # Current officials
 
-![Mayor {MAYOR}](/officials/blesildo-f-sumera.jpg) ![Vice Mayor {VICE_MAYOR}](/officials/rio-virgilio-r-esteves.jpg)
-
-- **Mayor:** Hon. {MAYOR}
-- **Vice Mayor:** Hon. {VICE_MAYOR}
+![Mayor | Hon. {MAYOR}](/officials/blesildo-f-sumera.jpg) ![Vice Mayor | Hon. {VICE_MAYOR}](/officials/rio-virgilio-r-esteves.jpg)
 
 Both took office on **October 16, 2026**, after the Ombudsman's dismissal order for the elected Mayor and Vice Mayor was implemented (see the notice below). They had earlier served as acting Mayor and acting Vice Mayor from March 2025, when the Office of the President suspended the elected officials.
 

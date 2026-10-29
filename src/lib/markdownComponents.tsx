@@ -268,13 +268,29 @@ export function createMarkdownComponents(theme: TypographyTheme) {
         {children}
       </em>
     ),
-    img: ({ alt, src }: { alt?: string; src?: string }) => (
-      <img
-        src={src}
-        alt={alt}
-        className="mr-4 mb-4 inline-block h-56 w-auto rounded object-cover object-top"
-      />
-    ),
+    img: ({ alt, src }: { alt?: string; src?: string }) => {
+      // Alt text written as "Role | Name" becomes a caption under the photo
+      const [role, name] = (alt ?? '').split('|').map(part => part.trim());
+      return (
+        <span className="mr-4 mb-4 inline-flex flex-col items-center align-top">
+          <img
+            src={src}
+            alt={name ? `${role} ${name}` : alt}
+            className="h-56 w-auto rounded object-cover object-top"
+          />
+          {name && (
+            <span className="mt-2 text-center">
+              <span className="block text-xs font-semibold tracking-wide text-primary-600 uppercase">
+                {role}
+              </span>
+              <span className="block text-sm font-medium text-gray-900">
+                {name}
+              </span>
+            </span>
+          )}
+        </span>
+      );
+    },
     hr: ({ ...props }: HTMLAttributes<HTMLHRElement>) => (
       <hr className={theme.components.hr} {...props} />
     ),
