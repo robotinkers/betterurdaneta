@@ -1,10 +1,28 @@
-# Legislative Department Pages
-# This file contains all the pages available under the Legislative Department
+# Legislative Department
+# Members of the Sangguniang Panlungsod (City Council)
 
-layout: list
-title: 'Legislative Department'
-description: 'The Sangguniang Panlungsod (City Council) of Urdaneta City, the legislative body of the city government.'
+layout: grid
+title: 'Sangguniang Panlungsod'
+description: "Members of the City Council as of October 16, 2026, based on Wikipedia. The city's own website has not yet updated its officials page. See the News section for the Ombudsman dismissal order behind the vacant seats."
 pages:
-  - name: 'Council composition and vacancies'
-    slug: 'council-vacancies'
-    description: 'Who sits on the Sangguniang Panlungsod, which seats are vacant after the Ombudsman dismissal order, and how vacancies are being addressed.'
+  - name: 'Rio Virgilio R. Esteves'
+    slug: 'rio-virgilio-r-esteves'
+    description: 'Vice Mayor and presiding officer of the Sangguniang Panlungsod'
+  - name: 'Maria Teresa Socorro E. Perez-Naguiat'
+    slug: 'maria-teresa-socorro-e-perez-naguiat'
+    description: 'City Councilor'
+  - name: 'Onofre C. Gorospe'
+    slug: 'onofre-c-gorospe'
+    description: 'City Councilor'
+  - name: 'Maura Jennifer C. Gandia'
+    slug: 'maura-jennifer-c-gandia'
+    description: 'City Councilor'
+  - name: 'Jose Roy A. Parayno'
+    slug: 'jose-roy-a-parayno'
+    description: 'Ex officio councilor, Liga ng mga Barangay President'
+  - name: 'Renzee Carl C. Parayno'
+    slug: 'renzee-carl-c-parayno'
+    description: 'Ex officio councilor, SK Federation President'
+  - name: 'Vacant seats (7)'
+    slug: 'vacant-seats'
+    description: 'Seven of the 10 elected council seats are vacant after the Ombudsman ordered six councilors dismissed and two councilors became Mayor and Vice Mayor.'
