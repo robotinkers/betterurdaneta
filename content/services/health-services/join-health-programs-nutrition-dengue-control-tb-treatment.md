@@ -1,81 +1,39 @@
-# Join Health Programs — Lapu-Lapu City (Nutrition, Dengue Control, TB Treatment)
+# Join health programs: nutrition, dengue control and TB treatment
 
-Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Office (CHO)**.
-
----
-
-## 1) Nutrition Programs
-
-**What’s offered**
-
-- Supplementary feeding for day-care children.
-- Community nutrition activities such as breastfeeding promotion, growth monitoring, and health education.
-- Special events during Nutrition Month (July) and city-wide wellness programs.
-
-**Who can join**
-
-- Day-care children and families identified by barangays or CSWD.
-- Residents may also take part in open city nutrition events.
-
-**How to join**
-
-1. Visit your **Barangay Health Center** or ask the **Barangay Nutrition Scholar (BNS)** about ongoing feeding programs.
-2. Join community activities and city-wide nutrition events announced by the **City Health Office (CHO)** or City Information Office.
-
-**Cost:** Free for eligible beneficiaries.
+Public health programs in the city are run through the **Urdaneta City Health Office (CHO)**. The CHO has not published a program calendar that we could verify, so **ask the CHO which programs are open to you** and when.
 
 ---
 
-## 2) Dengue Control Programs
+## Where to ask
 
-**What’s offered**
-
-- Community clean-up drives under the **ABKD (Aksyon Barangay Kontra Dengue)** program.
-- Daily “4 o’clock habit” — searching and destroying mosquito breeding sites.
-- Misting, fogging, and entomological surveys led by the CHO.
-- Information campaigns during Dengue Awareness Month and rainy season.
-
-**How to join**
-
-1. Take part in barangay clean-up drives and follow the **4S strategy** (Search & Destroy, Self-protection, Seek early consultation, Support fogging/misting).
-2. Cooperate when CHO teams conduct **misting** or **house-to-house larval checks**.
-
-**Cost:** Free; no registration needed.
+| Information | Details                                                                  |
+| ----------- | ------------------------------------------------------------------------ |
+| **Office**  | Urdaneta City Health Office                                              |
+| **Address** | Alexander Street, Poblacion, Urdaneta City (reported in public listings) |
+| **Hotline** | 0933 869 4961, 0919 002 7019 or 0943 700 9419                            |
 
 ---
 
-## 3) TB Treatment (NTP TB-DOTS)
+## TB treatment
 
-**What’s offered**
-
-- Free consultations, diagnostic tests, and full course of anti-TB medicines under the **National Tuberculosis Program (NTP)**.
-- Supervised treatment through the **Directly Observed Therapy Short-course (DOTS)** approach.
-
-**Where**
-
-- Lapu-Lapu City Health Office (DOTS facility) and affiliated barangay health centers.
-
-**How to join**
-
-1. Go to your **Barangay Health Center** or the **CHO DOTS Clinic** for TB screening.
-2. If diagnosed, you will be enrolled in DOTS — treatment and medicines are given for free.
-3. Regular follow-up visits will be scheduled to monitor your recovery.
-
-**Cost:** Free for all TB patients.
+The City Health Office is listed as a **PhilHealth-accredited TB DOTS facility**. DOTS is the standard supervised treatment program for tuberculosis, which is free at government facilities. If you have a cough that lasts two weeks or more, or have been told you may have TB, go to the CHO for screening.
 
 ---
 
-## Contact & Updates
+## Dengue
 
-- **Barangay Health Centers** — First point of contact for nutrition, dengue, and TB programs.
-- **Lapu-Lapu City Health Office (CHO)** — Main office for program schedules and services.
-- **City Information Office** — Posts updates on city-wide campaigns and health events.
+Dengue prevention in the community relies on getting rid of places where mosquitoes breed. Clear standing water around your home every week, and seek medical care early if you have a sudden high fever with severe headache, pain behind the eyes, or rash. Ask the CHO about any barangay clean-up or fogging schedules.
 
 ---
 
-### Quick Tips
+## Nutrition
 
-- Bring a **valid ID** and your **barangay health record** (if you already have one).
-- For TB symptoms (cough for 2 weeks or more, weight loss, night sweats), seek screening immediately.
-- Join community clean-up drives and practice the 4 o’clock habit to prevent dengue.
-- Attend barangay nutrition events and feeding programs for your children’s growth and wellness.
+Ask the CHO or your barangay health worker about nutrition programs for children and pregnant women, including weighing days and supplements.
+
+---
+
+## Sources
+
+- [Urdaneta City Health Office queuing site](https://chourdaneta-queuing.site/)
+- [Urdaneta City Health Office I (Clinic Finder PH)](https://www.clinicfinderph.com/clinic/urdaneta-city-health-office-i)
+- [Department of Health - National TB Program](https://ntp.doh.gov.ph/)
