@@ -72,7 +72,7 @@ export function createMarkdownComponents(theme: TypographyTheme) {
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLParagraphElement>) => (
       <p
-        className={`${theme.components.p} has-[.md-photo]:flex has-[.md-photo]:flex-wrap has-[.md-photo]:justify-center has-[.md-photo]:gap-x-24 has-[.md-photo]:gap-y-6 has-[.md-photo]:py-4`}
+        className={`${theme.components.p} has-[.md-photo]:flex has-[.md-photo]:flex-wrap has-[.md-photo]:justify-center has-[.md-photo]:gap-x-40 has-[.md-photo]:gap-y-6 has-[.md-photo]:py-4`}
         {...props}
       >
         {children}
