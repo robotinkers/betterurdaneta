@@ -123,11 +123,10 @@ export default function HospitalMap() {
         description="Draft map of hospitals in Urdaneta City, Pangasinan."
       />
       <Section className="p-3 mb-12">
-        <Heading level={2}>Hospital map (draft)</Heading>
+        <Heading level={2}>Hospital map</Heading>
         <Text className="text-gray-600 mb-4">
-          A draft map of the hospitals in Urdaneta City. Pins with a dashed
-          outline and a question mark are placeholder positions that have not
-          been verified, so they do not show the real location of the hospital.
+          Where to find the hospitals in Urdaneta City. Tap a pin to see the
+          address and telephone number.
         </Text>
 
         {failed ? (
@@ -179,8 +178,9 @@ export default function HospitalMap() {
         </div>
 
         <Text className="mt-4 text-xs text-gray-500">
-          Map data &copy; OpenStreetMap contributors. The city center
-          coordinates come from the Wikipedia article on Urdaneta.
+          Map data &copy; OpenStreetMap contributors. Hospital pin positions
+          were supplied by the site maintainer, and the city center coordinates
+          come from the Wikipedia article on Urdaneta.
         </Text>
       </Section>
     </>

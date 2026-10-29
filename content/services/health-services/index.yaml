@@ -18,6 +18,6 @@ pages:
     slug: 'join-health-programs-nutrition-dengue-control-tb-treatment'
     description: 'How to ask the City Health Office about TB treatment, dengue prevention and nutrition programs.'
 
-  - name: 'View the hospital map (draft)'
+  - name: 'View the hospital map'
     slug: 'hospital-map'
-    description: 'A draft map of the hospitals in Urdaneta City. Pin positions are placeholders until verified.'
+    description: 'A map of the hospitals in Urdaneta City with their addresses and telephone numbers.'
