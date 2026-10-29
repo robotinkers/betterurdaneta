@@ -29,10 +29,11 @@ This section is a summary of published news reports. It is not a legal opinion, 
 
 - **January 2025:** The Office of the President ordered a 12-month suspension of Mayor Julio F. Parayno III and Vice Mayor Jimmy D. Parayno over grave misconduct and grave abuse of authority. The order was served on January 7, 2025.
 - **March 2025:** The Department of the Interior and Local Government (DILG) enforced the suspension. Councilors Rio Virgilio R. Esteves and Blesildo F. Sumera assumed the acting posts after other councilors declined them.
-- **October 16, 2026:** The Office of the Ombudsman ordered the dismissal from service of the Mayor, the Vice Mayor, and six city councilors, according to the Daily Tribune. The report says the Mayor and Vice Mayor were found liable for grave misconduct for continuing to perform official duties despite the suspension, and the six councilors for gross neglect of duty for refusing to assume acting positions.
+- **October 16, 2026:** News outlets reported that the Office of the Ombudsman, in a decision dated April 15, 2026, ordered the dismissal from service of the Mayor, the Vice Mayor, and six city councilors. According to the Philippine Daily Inquirer, several other charges against the Mayor and Vice Mayor were dismissed. The report says the Mayor and Vice Mayor were found liable for grave misconduct for continuing to perform official duties despite the suspension, and the six councilors for gross neglect of duty for refusing to assume acting positions.
 
 Read the news reports:
 
+- [Urdaneta mayor, vice mayor, councilors dismissed by Ombudsman (Philippine Daily Inquirer, October 16, 2026)](https://newsinfo.inquirer.net/2324989/urdaneta-mayor-vice-mayor-councilors-dismissed-by-ombudsman)
 - [Ombudsman dismisses Urdaneta mayor, vice mayor, 6 councilors (Daily Tribune, October 16, 2026)](https://tribune.net.ph/2026/10/16/ombudsman-dismisses-urdaneta-mayor-vice-mayor-6-councilors)
 - [2 councilors assume top Urdaneta posts (Daily Tribune, April 1, 2025)](https://tribune.net.ph/2025/04/01/2-councilors-assume-top-urdaneta-posts)
 
