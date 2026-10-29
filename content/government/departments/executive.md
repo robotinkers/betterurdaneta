@@ -12,14 +12,12 @@ The Mayor leads the local government and is responsible for carrying out the pro
 
 ---
 
-## Current acting officials
+## Current officials
 
-The elected Mayor and Vice Mayor of {GOVERNMENT_NAME} have been the subject of a suspension and a later dismissal order (see the notice below). City leadership is currently held by acting officials, who were installed from among the members of the Sangguniang Panlungsod:
+- **Mayor:** Hon. {MAYOR}
+- **Vice Mayor:** Hon. {VICE_MAYOR}
 
-- **Acting Mayor:** Hon. {MAYOR}
-- **Acting Vice Mayor:** Hon. {VICE_MAYOR}
-
-Both were installed in March 2025 after the Office of the President suspended the elected Mayor and Vice Mayor.
+Both took office on **October 16, 2026**, after the Ombudsman's dismissal order for the elected Mayor and Vice Mayor was implemented (see the notice below). They had earlier served as acting Mayor and acting Vice Mayor from March 2025, when the Office of the President suspended the elected officials.
 
 ---
 
