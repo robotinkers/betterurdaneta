@@ -3,7 +3,7 @@ import Section from '../components/ui/Section';
 import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
 import SEO from '../components/SEO';
-import { CITY_CENTER, mapPins, type MapPin } from '../data/hospitals';
+import { mapPins, type MapPin } from '../data/hospitals';
 
 const LEAFLET_VERSION = '1.9.4';
 const LEAFLET_CSS = `https://unpkg.com/leaflet@${LEAFLET_VERSION}/dist/leaflet.css`;
@@ -11,17 +11,16 @@ const LEAFLET_JS = `https://unpkg.com/leaflet@${LEAFLET_VERSION}/dist/leaflet.js
 
 interface LeafletMap {
   remove(): void;
+  fitBounds(
+    bounds: [number, number][],
+    options?: { padding?: [number, number]; maxZoom?: number }
+  ): void;
 }
 interface LeafletLayer {
   addTo(map: LeafletMap): { bindPopup(html: string): unknown };
 }
 interface LeafletNamespace {
-  map(
-    el: HTMLElement,
-    options?: object
-  ): LeafletMap & {
-    setView(center: [number, number], zoom: number): LeafletMap;
-  };
+  map(el: HTMLElement, options?: object): LeafletMap;
   tileLayer(url: string, options: object): { addTo(map: LeafletMap): void };
   marker(center: [number, number], options?: object): LeafletLayer;
   divIcon(options: object): unknown;
@@ -98,7 +97,11 @@ export default function HospitalMap() {
         if (cancelled || !mapRef.current) return;
         const leafletMap = L.map(mapRef.current, { scrollWheelZoom: false });
         map = leafletMap;
-        leafletMap.setView([CITY_CENTER.lat, CITY_CENTER.lng], 14);
+        // Open the map framed around every pin with some margin
+        leafletMap.fitBounds(
+          mapPins.map(pin => [pin.lat, pin.lng] as [number, number]),
+          { padding: [70, 70], maxZoom: 16 }
+        );
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
           maxZoom: 19,
           attribution: '&copy; OpenStreetMap contributors',
