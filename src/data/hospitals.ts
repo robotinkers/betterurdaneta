@@ -56,4 +56,14 @@ export const mapPins: MapPin[] = [
       'Provincial government hospital',
     ],
   },
+  {
+    id: 'divine-mercy-hospital',
+    name: 'Divine Mercy Hospital',
+    kind: 'hospital',
+    // Coordinates supplied by the site maintainer.
+    lat: 15.9777821,
+    lng: 120.5639718,
+    verified: true,
+    details: ['Address and contact details have not been added yet'],
+  },
 ];
