@@ -41,12 +41,12 @@ const Footer: React.FC = () => {
 
               <div>
                 <div className="font-bold">{t('site_name')}</div>
-                <div className="text-xs text-gray-400">BetterGov.ph Portal</div>
+                <div className="text-xs text-gray-400">BetterUrdaneta</div>
               </div>
             </div>
             <p className="text-gray-400 text-sm mb-4">
-              A community portal providing Philippine citizens, businesses, and
-              visitors with information and services.
+              A community-run portal for residents, businesses, and visitors of
+              Urdaneta City, Pangasinan. It is not the official city website.
             </p>
             <div className="flex space-x-4">
               {footerNavigation.socialLinks.map(link => (
@@ -101,23 +101,11 @@ const Footer: React.FC = () => {
                 Terms of Use
               </a> */}
               <Link
-                to="https://github.com/bettergovph/bettergov"
+                to="https://github.com/robotinkers/betterurdaneta"
                 className="text-gray-400 hover:text-white text-sm transition-colors"
               >
                 Contribute at GitHub
               </Link>
-              <Link
-                to="/sitemap"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
-              >
-                Sitemap
-              </Link>
-              <a
-                href="/accessibility"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
-              >
-                Accessibility
-              </a>
             </div>
           </div>
         </div>
