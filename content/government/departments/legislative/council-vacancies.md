@@ -8,16 +8,16 @@ According to the results of the May 2025 local elections, voters elected **10 ci
 
 ## Current situation
 
-On **October 16, 2026**, news outlets reported that the Office of the Ombudsman ordered the dismissal from service of six members of the Sangguniang Panlungsod, along with the Mayor and Vice Mayor. The six councilors named in the reports are:
+On **October 16, 2026**, news outlets reported that the Office of the Ombudsman, in a decision dated **April 15, 2026**, ordered the dismissal from service of six members of the Sangguniang Panlungsod, along with the Mayor and Vice Mayor. City officials said they received the decision on October 15, 2026. The six councilors named in the reports are:
 
-- Franco Paolo Del Prado
-- Warren Andrada
-- Aurelio Agsalud
-- Franklin Villanueva
-- Jhan Hero Sumera
-- Alfonso Miguel Del Prado
+- Franco Paolo San Juan Del Prado
+- Warren Dela Cruz Andrada
+- Aurelio L. Agsalud
+- Franklin V. Villanueva
+- Jhan Hero M. Sumera
+- Alfonso Miguel Manuel Del Prado
 
-The reports say they were found liable for gross neglect of duty for refusing to assume the acting posts assigned to them by the Department of the Interior and Local Government (DILG).
+The reports say they were found liable for gross neglect of duty for refusing to assume the acting posts assigned to them by the Department of the Interior and Local Government (DILG). The penalties reported include perpetual disqualification from holding public office.
 
 Councilors Blesildo F. Sumera and Rio Virgilio R. Esteves, who earlier took the acting posts, now lead the city as Mayor and Vice Mayor. Because of the dismissals, the council has **several vacant seats**.
 
@@ -29,6 +29,7 @@ This page will be updated once the council's membership is confirmed from an off
 
 ## News reports
 
+- [Urdaneta mayor, vice mayor, councilors dismissed by Ombudsman (Philippine Daily Inquirer, October 16, 2026)](https://newsinfo.inquirer.net/2324989/urdaneta-mayor-vice-mayor-councilors-dismissed-by-ombudsman)
 - [Ombudsman dismisses Urdaneta mayor, vice mayor, 6 councilors (Daily Tribune, October 16, 2026)](https://tribune.net.ph/2026/10/16/ombudsman-dismisses-urdaneta-mayor-vice-mayor-6-councilors)
 - [New Urdaneta leadership appeals for cooperation (The Manila Times, October 21, 2026)](https://www.manilatimes.net/2026/10/21/regions/new-urdaneta-leadership-appeals-for-cooperation/2450274)
 
