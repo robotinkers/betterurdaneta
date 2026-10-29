@@ -32,10 +32,10 @@ export const mapPins: MapPin[] = [
     id: 'urdaneta-sacred-heart-hospital',
     name: 'Urdaneta Sacred Heart Hospital',
     kind: 'hospital',
-    // PLACEHOLDER position: not the real location.
-    lat: CITY_CENTER.lat,
-    lng: CITY_CENTER.lng - 0.004,
-    verified: false,
+    // Coordinates supplied by the site maintainer.
+    lat: 15.9806337,
+    lng: 120.570857,
+    verified: true,
     details: [
       '15 MacArthur Highway, Urdaneta City, Pangasinan 2428',
       'Telephone: (075) 203 1000',
