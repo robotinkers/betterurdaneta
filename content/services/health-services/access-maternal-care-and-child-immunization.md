@@ -1,49 +1,35 @@
-# Access Maternal Care & Child Immunization — Lapu-Lapu City
+# Access maternal care and child immunization
 
-The City Health Office (CHO) and barangay health centers provide **prenatal care**, **family planning**, and **free routine child immunization** for residents.
+Mothers and children can get prenatal care, delivery and newborn care, and routine vaccines from government health facilities. In Urdaneta, start with the **City Health Office (CHO)**.
 
----
-
-## Maternal Care (Prenatal & Related Services)
-
-| Service                                                             | Where                       | Schedule                                                               | Requirements                                    | Cost                                                       |
-| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| Prenatal check-ups (by midwife/nurse; physician referral as needed) | **Barangay Health Centers** | Mon–Fri (typical clinic hours; varies by center)                       | Prenatal record (issued/updated at first visit) | **Free**                                                   |
-| Family Planning counseling & methods                                | **Barangay Health Centers** | Mon–Fri **8:00 AM–4:00 PM**; Sat **8:00 AM–1:00 PM** (except holidays) | Personal appearance for counseling              | **Free** counseling (methods per DOH program availability) |
-
-**Tip:** Bring any previous prenatal card/records and a valid ID. If you’re new, staff will register you and issue the needed record at the health center.
+The CHO has not published a maternal and child health schedule that we could verify, so **call the CHO to ask when clinics and immunization days are held** in your barangay.
 
 ---
 
-## Child Immunization (EPI)
+## Where to ask
 
-Routine childhood vaccines are provided **free** under the Expanded Program on Immunization (EPI).
+| Information | Details                                                                  |
+| ----------- | ------------------------------------------------------------------------ |
+| **Office**  | Urdaneta City Health Office                                              |
+| **Address** | Alexander Street, Poblacion, Urdaneta City (reported in public listings) |
+| **Hotline** | 0933 869 4961, 0919 002 7019 or 0943 700 9419                            |
 
-| Age/Visit                          | Vaccines (examples)                                                        | Where                       | Regular Day/Time                                  | Requirements                          | Cost     |
-| ---------------------------------- | -------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- | ------------------------------------- | -------- |
-| Birth–12 months (per DOH schedule) | **BCG**, **Pentavalent**, **OPV/IPV**, **MMR**, **Hepatitis B**, **PCV13** | **Barangay Health Centers** | **Wednesdays, 8:00 AM–4:00 PM** (except holidays) | **ECCD card** (issued on first visit) | **Free** |
+Hospitals with obstetrics and pediatrics departments:
 
-> First time? The health worker will **issue an ECCD card** and guide you on next-dose return dates.
-
----
-
-## How to Avail (Quick Steps)
-
-1. **Go to your Barangay Health Center** during clinic hours (or the posted EPI day for vaccines).
-2. **Register/Update your record:** Prenatal record for mothers, **ECCD card** for children (issued if first time).
-3. **Receive service:** Prenatal assessment, counseling (and TT vaccine/supplements per program), or child vaccination per EPI schedule.
-4. **Book your return date** for follow-ups and next vaccine doses as advised by the health staff.
+- **Urdaneta Sacred Heart Hospital** lists obstetrics and gynecology, pediatrics and a neonatal ICU. Telephone: (075) 203 1000.
+- **Urdaneta District Hospital** is the provincial government hospital in the city. Emergency room telephone: (075) 632-6248.
 
 ---
 
-## Notes & Extras
+## About child immunization
 
-- **Medical consultations** at health centers are **free** (Mon–Fri, 8:00 AM–5:00 PM; center schedules apply). Useful if you need a doctor’s assessment alongside prenatal care.
-- The CHO and health centers also run **mother’s classes** and promote **facility-based delivery**; ask your midwife for schedules.
+The Department of Health's **Expanded Program on Immunization** provides routine vaccines for infants and children at government health facilities. Bring your child's immunization card (or the baby book given at birth) each time.
 
 ---
 
-**References**
+## Sources
 
-- [Lapu-Lapu City Government – Services](https://lapulapucity.gov.ph)
-- [Department of Health – Expanded Program on Immunization](https://doh.gov.ph)
+- [Department of Health - Expanded Program on Immunization](https://doh.gov.ph)
+- [Urdaneta City Health Office queuing site](https://chourdaneta-queuing.site/)
+- [Urdaneta Sacred Heart Hospital](https://urdanetasacredhearthospital.com/)
+- [Urdaneta District Hospital contact page (Province of Pangasinan)](https://www.pangasinan.gov.ph/department/urdaneta-district-hospital/contact-us/)
