@@ -17,7 +17,7 @@ A quick look at **{GOVERNMENT_NAME}**, Pangasinan: its history, location, people
 | **Named after**              | Fr. Andrés de Urdaneta                                                                                          |
 | **Motto**                    | _Deo servire populo sufficere_ ("It is enough for the people to serve God")                                     |
 | **Barangays**                | 34                                                                                                              |
-| **Land area**                | 100.26 km² (12,100 hectares per the Wikipedia article's geography section)                                      |
+| **Land area**                | 100.26 km² (about 10,026 hectares)                                                                              |
 | **Population (2024 census)** | 145,935                                                                                                         |
 | **Households (2024)**        | 35,215                                                                                                          |
 | **Registered voters (2025)** | 102,425                                                                                                         |
