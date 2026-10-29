@@ -12,4 +12,4 @@ The Manila Times reported that Mayor Blesildo Sumera and Vice Mayor Rio Virgilio
 
 - [New Urdaneta leadership appeals for cooperation (The Manila Times, October 21, 2026)](https://www.manilatimes.net/2026/10/21/regions/new-urdaneta-leadership-appeals-for-cooperation/2450274)
 
-See the current council on the [council composition and vacancies page](/government/legislative/council-vacancies).
+See the current council on the [Sangguniang Panlungsod page](/government/departments/legislative).
