@@ -39,25 +39,25 @@ const Navbar: React.FC = () => {
         <div className="container mx-auto px-4 flex justify-end items-center h-10">
           <div className="flex items-center space-x-4">
             <a
-              href="https://bettergov.ph/join-us"
+              href="https://github.com/robotinkers/betterurdaneta"
               className="text-xs text-primary-600 hover:text-primary-700 font-semibold transition-colors"
               target="_blank"
             >
-              🚀 Join Us
+              🚀 Contribute
             </a>
             <a
-              href="https://bettergov.ph/about"
+              href="https://lgu.bettergov.ph"
               className="text-xs text-gray-800 hover:text-primary-600 transition-colors"
               target="_blank"
             >
-              About BetterGov
+              About BetterLGU
             </a>
             <a
-              href="https://www.gov.ph"
+              href="https://urdaneta-city.gov.ph"
               className="text-xs text-gray-800 hover:text-primary-600 transition-colors"
               target="_blank"
             >
-              Official Gov.ph
+              City Hall Website
             </a>
 
             <a
