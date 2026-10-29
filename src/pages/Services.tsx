@@ -11,6 +11,7 @@ import {
 import * as LucideIcons from 'lucide-react';
 import Breadcrumbs from '../components/ui/Breadcrumbs';
 import ServicesSection from '../components/home/ServicesSection';
+import HospitalMapSection from '../components/HospitalMapSection';
 import SEO from '../components/SEO';
 import { Card, CardContent } from '@bettergov/kapwa/card';
 import { Banner } from '@bettergov/kapwa/banner';
@@ -85,6 +86,8 @@ const Services: React.FC = () => {
         <Icon className="h-8 w-8 mb-4 text-primary-600 rounded-md" />
         <Heading>{categoryData.category || category}</Heading>
         <Text className="text-gray-600 mb-6">{categoryData.description}</Text>
+
+        {category === 'health-services' && <HospitalMapSection />}
 
         {loading ? (
           <div className="flex justify-center items-center p-8">

@@ -1,8 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import Section from '../components/ui/Section';
-import { Heading } from '../components/ui/Heading';
-import { Text } from '../components/ui/Text';
-import SEO from '../components/SEO';
+import { Heading } from './ui/Heading';
+import { Text } from './ui/Text';
 import { mapPins, type MapPin } from '../data/hospitals';
 
 const LEAFLET_VERSION = '1.9.4';
@@ -85,7 +83,7 @@ function popupHtml(pin: MapPin) {
     .join('')}${warning}`;
 }
 
-export default function HospitalMap() {
+export default function HospitalMapSection() {
   const mapRef = useRef<HTMLDivElement>(null);
   const [failed, setFailed] = useState(false);
 
@@ -120,72 +118,68 @@ export default function HospitalMap() {
   }, []);
 
   return (
-    <>
-      <SEO
-        title="Hospital map"
-        description="Draft map of hospitals in Urdaneta City, Pangasinan."
-      />
-      <Section className="p-3 mb-12">
-        <Heading level={2}>Hospital map</Heading>
-        <Text className="text-gray-600 mb-4">
-          Where to find the hospitals in Urdaneta City. Tap a pin to see the
-          address and telephone number.
-        </Text>
+    <section className="mb-10" aria-labelledby="hospital-map-heading">
+      <div id="hospital-map-heading">
+        <Heading level={3}>Hospital map</Heading>
+      </div>
+      <Text className="text-gray-600 mb-4">
+        Where to find the hospitals in Urdaneta City. Tap a pin to see the
+        address and telephone number.
+      </Text>
 
-        {failed ? (
-          <div className="rounded border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900">
-            The map could not be loaded. The hospitals are listed below.
-          </div>
-        ) : (
-          <div
-            ref={mapRef}
-            className="h-[420px] w-full rounded border border-gray-300"
-            role="region"
-            aria-label="Map of Urdaneta City hospitals"
-          />
-        )}
-
-        <div className="mt-6 overflow-x-auto">
-          <table className="w-full text-left text-sm">
-            <thead>
-              <tr className="border-b border-gray-300">
-                <th className="py-2 pr-4">Place</th>
-                <th className="py-2 pr-4">Details</th>
-                <th className="py-2">Pin position</th>
-              </tr>
-            </thead>
-            <tbody>
-              {mapPins.map(pin => (
-                <tr key={pin.id} className="border-b border-gray-200 align-top">
-                  <td className="py-2 pr-4 font-medium text-gray-900">
-                    {pin.name}
-                  </td>
-                  <td className="py-2 pr-4 text-gray-700">
-                    {pin.details.map(line => (
-                      <div key={line}>{line}</div>
-                    ))}
-                  </td>
-                  <td className="py-2">
-                    {pin.verified ? (
-                      <span className="text-green-700">Verified</span>
-                    ) : (
-                      <span className="font-medium text-amber-800">
-                        Unverified placeholder
-                      </span>
-                    )}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+      {failed ? (
+        <div className="rounded border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900">
+          The map could not be loaded. The hospitals are listed below.
         </div>
+      ) : (
+        <div
+          ref={mapRef}
+          className="h-[420px] w-full rounded border border-gray-300"
+          role="region"
+          aria-label="Map of Urdaneta City hospitals"
+        />
+      )}
 
-        <Text className="mt-4 text-xs text-gray-500">
-          Map data &copy; OpenStreetMap contributors. Hospital pin positions
-          were supplied by the site maintainer, and the city center coordinates
-          come from the Wikipedia article on Urdaneta.
-        </Text>
-      </Section>
-    </>
+      <div className="mt-6 overflow-x-auto">
+        <table className="w-full text-left text-sm">
+          <thead>
+            <tr className="border-b border-gray-300">
+              <th className="py-2 pr-4">Place</th>
+              <th className="py-2 pr-4">Details</th>
+              <th className="py-2">Pin position</th>
+            </tr>
+          </thead>
+          <tbody>
+            {mapPins.map(pin => (
+              <tr key={pin.id} className="border-b border-gray-200 align-top">
+                <td className="py-2 pr-4 font-medium text-gray-900">
+                  {pin.name}
+                </td>
+                <td className="py-2 pr-4 text-gray-700">
+                  {pin.details.map(line => (
+                    <div key={line}>{line}</div>
+                  ))}
+                </td>
+                <td className="py-2">
+                  {pin.verified ? (
+                    <span className="text-green-700">Verified</span>
+                  ) : (
+                    <span className="font-medium text-amber-800">
+                      Unverified placeholder
+                    </span>
+                  )}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <Text className="mt-4 text-xs text-gray-500">
+        Map data &copy; OpenStreetMap contributors. Hospital pin positions were
+        supplied by the site maintainer, and the city center coordinates come
+        from the Wikipedia article on Urdaneta.
+      </Text>
+    </section>
   );
 }
