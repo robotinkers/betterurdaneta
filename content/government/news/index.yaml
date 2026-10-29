@@ -1,0 +1,19 @@
+# News Pages
+# Summaries of published news reports about the City of Urdaneta, each linking to the original article
+
+layout: list
+title: 'News'
+description: 'Summaries of published news reports about the Urdaneta City government, with links to the original articles.'
+pages:
+  - name: 'Ombudsman orders dismissal of Urdaneta mayor, vice mayor and six councilors'
+    slug: 'ombudsman-dismissal-order'
+    description: 'October 16, 2026. Reports on the Ombudsman decision dated April 15, 2026.'
+  - name: 'New mayor assures city employees of job security'
+    slug: 'new-mayor-assures-employees'
+    description: 'October 19, 2026. Mayor Blesildo Sumera speaks at his first flag-raising ceremony.'
+  - name: 'New Urdaneta leadership appeals for cooperation'
+    slug: 'new-leadership-appeals-for-cooperation'
+    description: 'October 21, 2026. The new Mayor and Vice Mayor, vacant council seats and how they may be filled.'
+  - name: 'Two councilors assume the top Urdaneta posts'
+    slug: 'councilors-assume-top-posts-2025'
+    description: 'April 1, 2025. Councilors take the acting posts after the suspension of the elected Mayor and Vice Mayor.'
