@@ -67,45 +67,46 @@ Source: Philippine Statistics Authority.
 
 Urdaneta has 34 barangays. Each is divided into puroks, and some also have sitios.
 
-| Rank     | Barangay                       | Population  |
-| -------- | ------------------------------ | ----------- |
-| 1        | San Vicente                    | 9,532       |
-| 2        | Pinmaludpod                    | 8,324       |
-| 3        | Nancayasan                     | 8,175       |
-| 4        | Poblacion                      | 7,301       |
-| 5        | Dilan Paurido                  | 7,186       |
-| 6        | Camantiles                     | 6,564       |
-| 7        | Anonas                         | 6,285       |
-| 8        | Catablan                       | 6,107       |
-| 9        | Nancamaliran West              | 5,981       |
-| 10       | Bayaoas                        | 5,864       |
-| 11       | San Jose                       | 5,730       |
-| 12       | Camanang                       | 5,397       |
-| 13       | Nancamaliran East              | 5,284       |
-| 14       | Palina East                    | 5,190       |
-| 15       | Cayambanan                     | 4,408       |
-| 16       | Labit Proper                   | 3,939       |
-| 17 (tie) | Cabuloan                       | 3,564       |
-| 17 (tie) | Mabanogbog                     | 3,564       |
-| 19       | Pedro T. Orata (Bactad Proper) | 3,458       |
-| 20       | Palina West                    | 3,443       |
-| 21       | Santo Domingo                  | 3,423       |
-| 22       | Santa Lucia                    | 3,401       |
-| 23       | Nancalobasaan                  | 3,364       |
-| 24       | Labit West                     | 2,751       |
-| 25       | Cabaruan                       | 2,389       |
-| 26       | Tipuso                         | 2,262       |
-| 27       | Bactad East                    | 2,231       |
-| 28       | Consolacion                    | 1,830       |
-| 29       | Macalong                       | 1,756       |
-| 30       | Bolaoen                        | 1,604       |
-| 31       | Tulong                         | 1,567       |
-| 32       | Casantaan                      | 1,479       |
-| 33       | Oltama                         | 1,422       |
-| 34       | Sugcong                        | 1,160       |
-|          | **Total**                      | **145,935** |
+| Rank     | Barangay                       | Class | Population  |
+| -------- | ------------------------------ | ----- | ----------- |
+| 1        | San Vicente                    | Urban | 9,532       |
+| 2        | Pinmaludpod                    | Urban | 8,324       |
+| 3        | Nancayasan                     | Urban | 8,175       |
+| 4        | Poblacion                      | Urban | 7,301       |
+| 5        | Dilan Paurido                  | Urban | 7,186       |
+| 6        | Camantiles                     | Urban | 6,564       |
+| 7        | Anonas                         | Urban | 6,285       |
+| 8        | Catablan                       | Urban | 6,107       |
+| 9        | Nancamaliran West              | Urban | 5,981       |
+| 10       | Bayaoas                        | Urban | 5,864       |
+| 11       | San Jose                       | Urban | 5,730       |
+| 12       | Camanang                       | Urban | 5,397       |
+| 13       | Nancamaliran East              | Urban | 5,284       |
+| 14       | Palina East                    | Urban | 5,190       |
+| 15       | Cayambanan                     | Rural | 4,408       |
+| 16       | Labit Proper                   | Rural | 3,939       |
+| 17 (tie) | Cabuloan                       | Urban | 3,564       |
+| 17 (tie) | Mabanogbog                     | Rural | 3,564       |
+| 19       | Pedro T. Orata (Bactad Proper) | Rural | 3,458       |
+| 20       | Palina West                    | Rural | 3,443       |
+| 21       | Santo Domingo                  | Rural | 3,423       |
+| 22       | Santa Lucia                    | Rural | 3,401       |
+| 23       | Nancalobasaan                  | Rural | 3,364       |
+| 24       | Labit West                     | Rural | 2,751       |
+| 25       | Cabaruan                       | Rural | 2,389       |
+| 26       | Tipuso                         | Rural | 2,262       |
+| 27       | Bactad East                    | Rural | 2,231       |
+| 28       | Consolacion                    | Rural | 1,830       |
+| 29       | Macalong                       | Rural | 1,756       |
+| 30       | Bolaoen                        | Rural | 1,604       |
+| 31       | Tulong                         | Rural | 1,567       |
+| 32       | Casantaan                      | Rural | 1,479       |
+| 33       | Oltama                         | Rural | 1,422       |
+| 34       | Sugcong                        | Rural | 1,160       |
+|          | **Total**                      |       | **145,935** |
+| ---      | ---                            | ---   | ---         |
 
-Source: Philippine Statistics Authority, 2024 Census of Population.
+Source: Philippine Statistics Authority, 2024 Census of Population (POPCEN), including the urban and rural classification of each barangay. All 34 barangay figures were checked against the PSA table.
 
 ---
 
