@@ -1,9 +1,10 @@
-# legislative Department Pages
-# This file contains all the pages/governments/departments/legislative available under the Department
-#
-layout: grid
+# Legislative Department Pages
+# This file contains all the pages available under the Legislative Department
+
+layout: list
 title: 'Legislative Department'
-description: 'Page Description'
+description: 'The Sangguniang Panlungsod (City Council) of Urdaneta City, the legislative body of the city government.'
 pages:
-  - name: 'Councilor A'
-    description: 'Description'
+  - name: 'Council composition and vacancies'
+    slug: 'council-vacancies'
+    description: 'Who sits on the Sangguniang Panlungsod, which seats are vacant after the Ombudsman dismissal order, and how vacancies are being addressed.'
