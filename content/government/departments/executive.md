@@ -1,14 +1,6 @@
-# Your Mayor
+# Mayor and Vice Mayor of {GOVERNMENT_NAME}
 
-Find out who leads the **{GOVERNMENT_NAME}** government, what the Mayor and Vice Mayor do, and how to contact the Office of the Mayor.
-
----
-
-# Your Mayor and Vice Mayor
-
-The **Mayor** is the chief executive official of the **Local Government Unit of {GOVERNMENT_NAME}**. The Mayor is elected by residents during the **Philippine National and Local Elections**, which are held every three years.
-
-The Mayor leads the local government and is responsible for carrying out the programs, policies, and development initiatives approved by the **Sangguniang Panlungsod (City Council)**. The Mayor's duties include representing the city at official functions, overseeing city services, and making sure public services reach residents.
+The current Mayor and Vice Mayor of {GOVERNMENT_NAME}, a notice about recent changes in city leadership, and how to contact the Office of the Mayor.
 
 ---
 
@@ -37,27 +29,15 @@ Read the news reports:
 
 ---
 
-# About the Office of the Vice Mayor
+## About the offices
 
-The **Vice Mayor** presides over the **Sangguniang Panlungsod** and helps make sure its sessions run properly and that ordinances and resolutions support the city's development goals.
+The **Mayor** is the chief executive of the city government. The Mayor leads the city's offices and carries out the programs and policies approved by the **Sangguniang Panlungsod** (City Council).
 
-When the Mayor is unable to perform official duties, the Vice Mayor takes over as Acting Mayor, in accordance with Philippine local government laws.
-
----
-
-# Invite the Mayor to your event
-
-Residents, organizations, and schools may invite the Mayor to official community activities. To request the Mayor's attendance, send a formal invitation to the **Office of the Mayor** with:
-
-- Name of organization
-- Event title
-- Date and time
-- Event location
-- Contact person and details
+The **Vice Mayor** presides over the Sangguniang Panlungsod. When the Mayor is unable to perform official duties, the Vice Mayor takes over as Acting Mayor, in accordance with Philippine local government laws.
 
 ---
 
-# Contact the Mayor's Office
+## Contact the Mayor's Office
 
 **Office of the Mayor**
 City Hall of **{GOVERNMENT_NAME}**

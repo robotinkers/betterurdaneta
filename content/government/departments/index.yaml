@@ -4,7 +4,7 @@
 pages:
   - name: 'Executive'
     slug: 'executive'
-    description: "Find out about your Mayor and Vice Mayor, including upcoming events, the Mayor's Community Assistance Program, mayoral history, and information about other historic roles in the local government unit."
+    description: "The current Mayor and Vice Mayor of Urdaneta City, a notice on recent changes in city leadership, and how to contact the Office of the Mayor."
   - name: 'Legislative'
     slug: 'legislative'
     description: 'The Sangguniang Panlungsod (City Council) of Urdaneta City, with the Vice Mayor as presiding officer. See which seats are vacant after the October 2026 Ombudsman dismissal order.'
