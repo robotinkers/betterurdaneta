@@ -152,14 +152,17 @@ These roles reflect the legacy of leadership and public service within the commu
 City/Municipal Hall of **{GOVERNMENT_NAME}**
 
 **Address:**
-[STREET ADDRESS]
-[CITY / PROVINCE / POSTAL CODE]
+Urdaneta City Hall, Amadeo R. Perez Jr. Avenue
+Urdaneta City, Pangasinan
 
 **Telephone:**
-[PHONE NUMBER]
+(0917) 127 4347
 
 **Email:**
-[EMAIL ADDRESS]
+sysadurdaneta@gmail.com
 
 **Website:**
-[OFFICIAL WEBSITE URL]
+https://urdaneta-city.gov.ph
+
+**Office hours:**
+8:00 AM to 5:00 PM
