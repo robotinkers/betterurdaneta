@@ -1,0 +1,10 @@
+# Reports and Statistics Pages
+# Statistics and profile information about the City of Urdaneta
+
+layout: list
+title: 'Reports and Statistics'
+description: 'Facts, figures and profile information about the City of Urdaneta.'
+pages:
+  - name: 'City profile and statistics'
+    slug: 'statistics'
+    description: 'History, location, 2024 census population, the 34 barangays, economy, festivals and colleges.'
